@@ -20,6 +20,7 @@ I did not use any third-party charting libraries or API wrappers – everything,
 - Chart Customization – Modify chart appearance and behavior to match user preferences.
 - Dynamic Date Axis Scaling – Intelligent resizing of time axes based on zoom level.
 
-<video controls src="chartProject.mp4" title="Showcase"></video>
+https://github.com/user-attachments/assets/b65c62b1-aecf-4214-906b-55560f740b4e
+
 
 Note: Communication with XTB api is done by using it's DEMO port, for more information see: [documentation](http://developers.xstore.pro/documentation/)
